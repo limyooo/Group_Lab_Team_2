@@ -5,13 +5,10 @@
 
 /**
  *
- * @author hanlinyao
+ * @author parke
  */
-public class Main {
+public class ParkerBaumann {
     public static void main(String[] args) {
-        LinyaoHan.main(args);
-        YilinWang.main(args);
-        ParkerBaumann.main(args);
-        
+        System.out.print("Hello from Parker Baumann");
     }
 }
